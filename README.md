@@ -1,2 +1,1 @@
-# Pet_pals
-Heroku Deployment
+# Pet_Pals
